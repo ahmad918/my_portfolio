@@ -45,7 +45,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-color: #000016;
+    background: url(/2109966.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
